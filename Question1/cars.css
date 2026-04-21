@@ -1,0 +1,32 @@
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#subtitle {
+    font-size: 30px;
+    text-align: center;
+}
+
+#guess-btn {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+}
+
+span{
+    font-weight: bold;
+}
