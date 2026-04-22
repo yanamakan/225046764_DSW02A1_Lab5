@@ -1,5 +1,4 @@
-window.onload = function () {
-    document.getElementById("blendBtn").addEventListener("click", function () {
+document.getElementById("blendBtn").addEventListener("click", function () {
         let output = document.getElementById("output");
         output.innerHTML = "";
 
@@ -58,4 +57,3 @@ window.onload = function () {
             }
         }
     })
-}
